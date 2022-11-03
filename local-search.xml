@@ -4,24 +4,11 @@
   
   
   <entry>
-    <title>test</title>
-    <link href="/2022/11/03/test/"/>
-    <url>/2022/11/03/test/</url>
+    <title>第一篇博客，hexo+GitHub搭建</title>
+    <link href="/2022/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/"/>
+    <url>/2022/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/</url>
     
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/11/03/hello-world/"/>
-    <url>/2022/11/03/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="个人博客搭建，hexo-github"><a href="#个人博客搭建，hexo-github" class="headerlink" title="个人博客搭建，hexo+github"></a>个人博客搭建，hexo+github</h1><h2 id="前言与准备："><a href="#前言与准备：" class="headerlink" title="前言与准备："></a>前言与准备：</h2><h3 id="准备好一个GitHub账号"><a href="#准备好一个GitHub账号" class="headerlink" title="准备好一个GitHub账号"></a>准备好一个GitHub账号</h3><p>创建方法略</p><h3 id="安装nodejs"><a href="#安装nodejs" class="headerlink" title="安装nodejs"></a>安装nodejs</h3><p>略，官网安装</p><h3 id="安装hexo等环境"><a href="#安装hexo等环境" class="headerlink" title="安装hexo等环境"></a>安装hexo等环境</h3><p>命令行输入以下指令进行安装<br><code>npm install -g hexo-cli hexo-deployer-git</code><br>准备工作完成  </p><h2 id="Github设置"><a href="#Github设置" class="headerlink" title="Github设置"></a>Github设置</h2><h3 id="GitHub创建个人仓库"><a href="#GitHub创建个人仓库" class="headerlink" title="GitHub创建个人仓库"></a>GitHub创建个人仓库</h3><p>登录到GitHub,如果没有GitHub帐号，使用你的邮箱注册GitHub帐号：Build software better, together 点击GitHub中的New repository创建新仓库  </p><h3 id="绑定个人域名-可选"><a href="#绑定个人域名-可选" class="headerlink" title="绑定个人域名(可选)"></a>绑定个人域名(可选)</h3><p>点击创建好的仓库，依次点击<strong> Settings &gt; Pages </strong>,在<strong> Custom domain </strong>填入域名，点击<strong> save </strong>保存<br>在你的域名服务商添加CNAME记录，<strong> &lt;你的GitHub名字&gt;.github.io </strong>，等待解析生效。打开Enforce HTTPS选项(可选，建议)  </p><img src="/2022/11/03/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/gitdomain.png" class="" title="Github域名设置"><p>也可以使用vercel等加速你的博客(可选，略，目前我用的就是vercel)  </p><h2 id="hexo的使用"><a href="#hexo的使用" class="headerlink" title="hexo的使用"></a>hexo的使用</h2><p>略(暂时?!)，可参照网上的各种帖子<br><a href="https://zhuanlan.zhihu.com/p/26625249" title="GitHub+Hexo 搭建个人网站详细教程">搭建教程</a><br><a href="https://markdown.com.cn/" title="最好的markdown教程">Markdown语法</a></p>]]></content>
     
     
     
