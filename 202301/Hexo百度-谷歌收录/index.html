@@ -24,8 +24,9 @@
 <meta property="og:description" content="前言网站在没有提交搜索引擎收录之前，直接搜索你网站的内容是搜不到的，只有提交搜索引擎之后，搜索引擎才能收录你的站点，通过爬虫抓取你网站的东西，对于 hexo 博客来说，如果你是部署在 GitHub Pages，那么你是无法被百度收录的，因为 GitHub 禁止了百度爬虫，最常见的解决办法是双线部署到 Coding Pages 和 GitHub Pages 查看网站是否被收录首先我们可以输入site">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://blog.orii.xyz/202301/Hexo%E7%99%BE%E5%BA%A6-%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95.png">
+<meta property="og:image" content="https://blog.orii.xyz/202301/Hexo%E7%99%BE%E5%BA%A6-%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/%E6%B7%BB%E5%8A%A0%E7%AB%99%E7%82%B9.png">
 <meta property="article:published_time" content="2023-01-18T01:40:49.000Z">
-<meta property="article:modified_time" content="2023-01-18T01:57:34.822Z">
+<meta property="article:modified_time" content="2023-01-18T02:14:47.966Z">
 <meta property="article:author" content="Gentsun">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://blog.orii.xyz/202301/Hexo%E7%99%BE%E5%BA%A6-%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95.png">
@@ -237,7 +238,7 @@
       <span class="post-meta mr-2">
         <i class="iconfont icon-chart"></i>
         
-          241 字
+          1.1k 字
         
       </span>
     
@@ -248,7 +249,7 @@
         
         
         
-          3 分钟
+          10 分钟
         
       </span>
     
@@ -309,7 +310,7 @@
               <p class="note note-info">
                 
                   
-                    本文最后更新于：2 分钟前
+                    本文最后更新于：1 分钟前
                   
                 
               </p>
@@ -320,7 +321,12 @@
                 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>网站在没有提交搜索引擎收录之前，直接搜索你网站的内容是搜不到的，只有提交搜索引擎之后，搜索引擎才能收录你的站点，通过爬虫抓取你网站的东西，对于 hexo 博客来说，如果你是部署在 GitHub Pages，那么你是无法被百度收录的，因为 GitHub 禁止了百度爬虫，最常见的解决办法是双线部署到 Coding Pages 和 GitHub Pages</p>
 <h1 id="查看网站是否被收录"><a href="#查看网站是否被收录" class="headerlink" title="查看网站是否被收录"></a>查看网站是否被收录</h1><p>首先我们可以输入<code>site:域名</code>来查看域名是否被搜索引擎收录，如下图所示，表示没有收录：</p>
 <img src="/202301/Hexo%E7%99%BE%E5%BA%A6-%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95.png" srcset="/img/loading.gif" lazyload class="" title="百度未收录">
-<h1 id="百度资源平台添加网站"><a href="#百度资源平台添加网站" class="headerlink" title="百度资源平台添加网站"></a>百度资源平台添加网站</h1><p>访问<a target="_blank" rel="noopener" href="https://ziyuan.baidu.com/" title="百度搜索资源平台官网">百度搜索资源平台官网</a></p>
+<h1 id="百度资源平台添加网站"><a href="#百度资源平台添加网站" class="headerlink" title="百度资源平台添加网站"></a>百度资源平台添加网站</h1><p>访问<a target="_blank" rel="noopener" href="https://ziyuan.baidu.com/" title="百度搜索资源平台官网">百度搜索资源平台官网</a>，注册或者登陆百度账号，依次选择【用户中心】-【站点管理】，添加你的网站，在添加站点时会让你选择协议头（http 或者 https），如果选择 https，它会验证你的站点，大约能在一天之内完成，我的网站已经实现了全站 https，因此选择了 https 协议，但是不知道为什么始终验证失败，实在是无解，只能选择 http 协议了，如果你的站点也实现了全站 https，也可以尝试一下</p>
+<img src="/202301/Hexo%E7%99%BE%E5%BA%A6-%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/%E6%B7%BB%E5%8A%A0%E7%AB%99%E7%82%B9.png" srcset="/img/loading.gif" lazyload class="" title="添加站点">
+<p>之后会让你验证网站所有权，提供三种验证方式：<br>文件验证：下载给定的文件，将其放到本地主题目录 source 文件夹，然后部署上去完成验证<br>HTML 标签验证：一般是给一个 meta 标签，放到首页 <head> 与 </head> 标签之间即可完成验证</p>
+<h1 id="提交百度搜索"><a href="#提交百度搜索" class="headerlink" title="提交百度搜索"></a>提交百度搜索</h1><p>百度提供了自动提交和手动提交两种方式，其中自动提交又分为主动推送、自动推送和 sitemap 三种方式，以下是官方给出的解释：</p>
+<p>主动推送：最为快速的提交方式，推荐您将站点当天新产出链接立即通过此方式推送给百度，以保证新链接可以及时被百度收录<br>自动推送：是轻量级链接提交组件，将自动推送的 JS 代码放置在站点每一个页面源代码中，当页面被访问时，页面链接会自动推送给百度，有利于新页面更快被百度发现<br>sitemap：您可以定期将网站链接放到sitemap中，然后将sitemap提交给百度。百度会周期性的抓取检查您提交的sitemap，对其中的链接进行处理，但收录速度慢于主动推送<br>手动提交：如果您不想通过程序提交，那么可以采用此种方式，手动将链接提交给百度</p>
+<h2 id="主动推送"><a href="#主动推送" class="headerlink" title="主动推送"></a>主动推送</h2><p>在博客根目录安装插件<code>npm install hexo-baidu-url-submit --save</code>，然后在根目录<code>_config.yml</code>  文件里写入以下配置：<br>    baidu_url_submit:<br>      count: 1               # 提交最新的多少个链接<br>      host: blog.orii.xyz    # 在百度站长平台中添加的域名<br>      token: your_token      # 秘钥<br>      path: baidu_urls.txt   # 文本文档的地址， 新链接会保存在此文本文档里<br>其中<code>token</code>可以在【链接提交】-【自动提交】-【主动推送】下面看到，接口调用地址最后面<code>token=xxx</code></p>
 
                 
               </div>
