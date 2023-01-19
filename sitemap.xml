@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.orii.xyz/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/</loc>
+    
+    <lastmod>2023-01-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.orii.xyz/202301/Hexo%E7%AB%99%E7%82%B9%E6%94%B6%E5%BD%95/</loc>
     
     <lastmod>2023-01-18</lastmod>
@@ -13,25 +31,7 @@
   <url>
     <loc>https://blog.orii.xyz/202211/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/</loc>
     
-    <lastmod>2023-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/</loc>
-    
-    <lastmod>2023-01-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/</loc>
-    
-    <lastmod>2023-01-18</lastmod>
+    <lastmod>2022-11-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -54,6 +54,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/Linux/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/Grub/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Web/</loc>
@@ -97,28 +111,7 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://blog.orii.xyz/tags/Linux/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/tags/Grub/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://blog.orii.xyz/categories/Web/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/</loc>
@@ -128,14 +121,7 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/categories/Linux/Ubuntu/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -149,7 +135,21 @@
   </url>
   
   <url>
+    <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/SEO/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/categories/Linux/Ubuntu/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
