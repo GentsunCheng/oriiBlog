@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>orii博客</title>
+  
+  <subtitle>GentsunCheng的个人博客</subtitle>
+  <link href="https://blog.orii.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://blog.orii.xyz/"/>
+  <updated>2023-01-18T11:29:45.241Z</updated>
+  <id>https://blog.orii.xyz/</id>
+  
+  <author>
+    <name>Gentsun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Grub更改排序(不是默认启动项)</title>
+    <link href="https://blog.orii.xyz/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/"/>
+    <id>https://blog.orii.xyz/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/</id>
+    <published>2023-01-19T03:42:31.000Z</published>
+    <updated>2023-01-18T11:29:45.241Z</updated>
+    
+    
+    
+    
+    <category term="Linux" scheme="https://blog.orii.xyz/categories/Linux/"/>
+    
+    <category term="Grub" scheme="https://blog.orii.xyz/categories/Linux/Grub/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.orii.xyz/tags/Linux/"/>
+    
+    <category term="Grub" scheme="https://blog.orii.xyz/tags/Grub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu签名内核</title>
+    <link href="https://blog.orii.xyz/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/"/>
+    <id>https://blog.orii.xyz/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/</id>
+    <published>2023-01-18T03:45:14.000Z</published>
+    <updated>2023-01-18T08:05:03.851Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://blog.orii.xyz/categories/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://blog.orii.xyz/categories/Linux/Ubuntu/"/>
+    
+    <category term="Kernel" scheme="https://blog.orii.xyz/categories/Linux/Kernel/"/>
+    
+    
+    <category term="Ubuntu" scheme="https://blog.orii.xyz/tags/Ubuntu/"/>
+    
+    <category term="Linux Kernel" scheme="https://blog.orii.xyz/tags/Linux-Kernel/"/>
+    
+    <category term="Secure Boot" scheme="https://blog.orii.xyz/tags/Secure-Boot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo站点收录</title>
+    <link href="https://blog.orii.xyz/202301/Hexo%E7%AB%99%E7%82%B9%E6%94%B6%E5%BD%95/"/>
+    <id>https://blog.orii.xyz/202301/Hexo%E7%AB%99%E7%82%B9%E6%94%B6%E5%BD%95/</id>
+    <published>2023-01-18T01:40:49.000Z</published>
+    <updated>2023-01-18T11:54:42.035Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/categories/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/categories/Web/Blog/"/>
+    
+    <category term="SEO" scheme="https://blog.orii.xyz/categories/Web/Blog/SEO/"/>
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/tags/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/tags/Blog/"/>
+    
+    <category term="SEO" scheme="https://blog.orii.xyz/tags/SEO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客，hexo+GitHub搭建</title>
+    <link href="https://blog.orii.xyz/202211/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/"/>
+    <id>https://blog.orii.xyz/202211/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%8Chexo-GitHub%E6%90%AD%E5%BB%BA/</id>
+    <published>2022-11-03T06:39:10.000Z</published>
+    <updated>2023-01-18T11:51:50.559Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/categories/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/categories/Web/Blog/"/>
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/tags/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/tags/Blog/"/>
+    
+  </entry>
+  
+</feed>
