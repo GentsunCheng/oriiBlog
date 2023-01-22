@@ -19,11 +19,11 @@ https://blog.orii.xyz/tags/Ubuntu/
 https://blog.orii.xyz/tags/Linux-Kernel/
 https://blog.orii.xyz/tags/Secure-Boot/
 https://blog.orii.xyz/categories/Linux/
-https://blog.orii.xyz/categories/Web/
 https://blog.orii.xyz/categories/Linux/Grub/
+https://blog.orii.xyz/categories/Web/
 https://blog.orii.xyz/categories/Web/Blog/
-https://blog.orii.xyz/categories/Web/Blog/SEO/
-https://blog.orii.xyz/categories/Web/Blog/RSS/
-https://blog.orii.xyz/categories/Web/CDN/
 https://blog.orii.xyz/categories/Linux/Ubuntu/
+https://blog.orii.xyz/categories/Web/CDN/
+https://blog.orii.xyz/categories/Web/Blog/SEO/
 https://blog.orii.xyz/categories/Linux/Kernel/
+https://blog.orii.xyz/categories/Web/Blog/RSS/
