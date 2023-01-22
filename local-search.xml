@@ -4,11 +4,77 @@
   
   
   <entry>
+    <title>使用cloudflare Worker代理telegram bot api</title>
+    <link href="/202301/%E4%BD%BF%E7%94%A8cloudflare-Worker%E4%BB%A3%E7%90%86telegram-bot-api/"/>
+    <url>/202301/%E4%BD%BF%E7%94%A8cloudflare-Worker%E4%BB%A3%E7%90%86telegram-bot-api/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>Web</category>
+      
+      <category>CDN</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Web</tag>
+      
+      <tag>CDN</tag>
+      
+      <tag>Telegram</tag>
+      
+      <tag>Cloudflare</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>RSS介绍+为你的Hexo博客添加RSS</title>
+    <link href="/202301/RSS%E4%BB%8B%E7%BB%8D-%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0RSS/"/>
+    <url>/202301/RSS%E4%BB%8B%E7%BB%8D-%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0RSS/</url>
+    
+    <content type="html"><![CDATA[<h1 id="RSS介绍"><a href="#RSS介绍" class="headerlink" title="RSS介绍"></a>RSS介绍</h1><p>暂时略~~~</p><h1 id="为Hexo添加RSS"><a href="#为Hexo添加RSS" class="headerlink" title="为Hexo添加RSS"></a>为Hexo添加RSS</h1><h2 id="hexo-generator-feed插件"><a href="#hexo-generator-feed插件" class="headerlink" title="hexo-generator-feed插件"></a>hexo-generator-feed插件</h2><p>在Hexo目录下使用如下指令安装RSS生成工具， <strong><code>hexo-generator-feed</code></strong></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">npm install hexo-generator-feed<br></code></pre></td></tr></table></figure><p>在 <strong><code>_config.yml</code></strong> 文件添加配置</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-comment"># feed</span><br><span class="hljs-attr">feed:</span><br>    <span class="hljs-attr">type:</span> <span class="hljs-string">atom</span><br>    <span class="hljs-attr">path:</span> <span class="hljs-string">atom.xml</span><br>    <span class="hljs-attr">limit:</span> <span class="hljs-number">20</span><br>    <span class="hljs-attr">hub:</span><br>    <span class="hljs-attr">content:</span><br>    <span class="hljs-attr">content_limit:</span><br>    <span class="hljs-attr">content_limit_delim:</span> <span class="hljs-string">&#x27; &#x27;</span><br></code></pre></td></tr></table></figure><p>参数的含义：<br><code>type</code>: RSS的类型(<code>atom</code>&#x2F;<code>rss2</code>)<br><code>path</code>: 文件路径,默认是<code>atom.xml</code>&#x2F;<code>rss2.xml</code><br><code>limit</code>: 展示文章的数量,使用<code>0</code>或则<code>false</code>代表展示全部<br><code>hub</code>:<br><code>content</code>: 在RSS文件中是否包含内容 ,有3个值 <code>true/false</code>默认不填为<code>false</code><br><code>content_limit</code>: 指定内容的长度作为摘要,仅仅在上面content设置为false和没有自定义的描述出现<br><code>content_limit_delim</code>: 上面截取描述的分隔符,截取内容是以指定的这个分隔符作为截取结束的标志.在达到规定的内容长度之前最后出现的这个分隔符之前的内容,，防止从中间截断.<br>之后使用 <code>http(s)://你的博客地址/atom.xml #http(s)://你的博客地址/rss2.xml</code> 订阅</p><h2 id="主题自带（以Next主题为例）"><a href="#主题自带（以Next主题为例）" class="headerlink" title="主题自带（以Next主题为例）"></a>主题自带（以Next主题为例）</h2><p>在 <strong><code>Next</code></strong> 主题的 <strong><code>_config.yml</code></strong> 文件中有个 <strong>rss</strong> 的配置，直接设置为 <strong>true</strong><br>其他主题可在使用手册查看是否支持，如何开启</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Web</category>
+      
+      <category>Blog</category>
+      
+      <category>RSS</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Web</tag>
+      
+      <tag>Blog</tag>
+      
+      <tag>RSS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Grub更改排序(不是默认启动项)</title>
     <link href="/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/"/>
     <url>/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>由于主要使用Windows，但按照常规方法设置grub默认启动项后，会(强)十(迫)分(症)影(受)响(不)美(了)观，所以，这篇文章给出更改grub排序的教程</p><h1 id="开始吧"><a href="#开始吧" class="headerlink" title="开始吧"></a>开始吧</h1><p>在 <strong><code>/etc/grub.d</code></strong> 目录中，脚本文件的文件名都是以数字开头，这确定了在执行 <strong><code>update-grub</code></strong> 时各文件内容被执行的顺序。找到<code>30_os-prober</code>这个文件，把<code>30_os-prober</code>这个文件名的数字30改为05到10之间的数字即可（没多少可选06、07、08、09），比如改为<code>07_os-prober</code>，这样创建出来的<code>grub.cfg</code>内的菜单项，windows的排序就会自动在ubuntu之前。<br><img src="/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/grubd.png" title="grub.d目录"><br>然后更新grub， <strong><code>sudo update-grub</code></strong> ,就可以看到，windows 已经排在了第一个的位置上<br><img src="/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/seq0.png" title="grub的排序"><br><img src="/202301/Grub%E6%9B%B4%E6%94%B9%E6%8E%92%E5%BA%8F-%E4%B8%8D%E6%98%AF%E9%BB%98%E8%AE%A4%E5%90%AF%E5%8A%A8%E9%A1%B9/seq1.png" title="grub的排序"></p>]]></content>
     
     
     <categories>
@@ -37,7 +103,7 @@
     <link href="/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/"/>
     <url>/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/</url>
     
-    <content type="html"><![CDATA[<h1 id="前言，起因"><a href="#前言，起因" class="headerlink" title="前言，起因"></a>前言，起因</h1><p>由于某些原因，电脑需要开启Secure Boot为了体验Linux Kernel 6.1的新特性(我也不知道要体验啥)，但Ubuntu官方还未签名新的Linux内核，于是决定自己签名内核。<br>这篇文章将带你了解如何在不关闭安全启动的情况下引导Linux内核(签名unsigned内核)</p><h1 id="了解Linux-Secure-Boot机制-基于Grub2"><a href="#了解Linux-Secure-Boot机制-基于Grub2" class="headerlink" title="了解Linux Secure Boot机制(基于Grub2)"></a>了解Linux Secure Boot机制(基于Grub2)</h1><p>安装Ubuntu时，官方会同时安装经过微软签名后的EFI文件，使得grub EFI能正确在开启安全启动的设备上启动，启动后，由grub引导内核。这时，由于grub经过安全启动，所以会验证内核是否签名，若未签名，则无法启动。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="前言，起因"><a href="#前言，起因" class="headerlink" title="前言，起因"></a>前言，起因</h1><p>由于某些原因，电脑需要开启Secure Boot为了体验Linux Kernel 6.1的新特性(我也不知道要体验啥)，但Ubuntu官方还未签名新的Linux内核，于是决定自己签名内核。<br>这篇文章将带你了解如何在不关闭安全启动的情况下引导Linux内核(签名unsigned内核)</p><h1 id="了解Linux-Secure-Boot机制-基于Grub2"><a href="#了解Linux-Secure-Boot机制-基于Grub2" class="headerlink" title="了解Linux Secure Boot机制(基于Grub2)"></a>了解Linux Secure Boot机制(基于Grub2)</h1><p>安装Ubuntu时，官方会同时安装经过微软签名后的EFI文件，使得grub EFI能正确在开启安全启动的设备上启动，启动后，由grub引导内核。这时，由于grub经过安全启动，所以会验证内核是否签名，若未签名，则无法启动。</p><h1 id="安装未签名的内核"><a href="#安装未签名的内核" class="headerlink" title="安装未签名的内核"></a>安装未签名的内核</h1><p>从ubuntu官方的<a href="https://kernel.ubuntu.com/~kernel-ppa/mainline/" title="ubuntu kernel">内核源</a>选择你需要的内核，根据架构，下载对应的 <strong><code>linux-image-unsigned-xxx.deb</code></strong> 和 <strong><code>linux-modules-xxx.deb</code></strong><br><img src="/202301/Ubuntu%E7%AD%BE%E5%90%8D%E5%86%85%E6%A0%B8/kernel-page.png" title="官方内核下载界面"><br>然后终端转到下载目录使用如下指令安装内核</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">dpkg -i ./*.deb<br></code></pre></td></tr></table></figure><p>此时，内核还没签名，如果以新安装的内核启动，则会显示 <strong><code>无效的shim签名</code></strong> ，接下来我们开始签名内核</p><h1 id="生成MOK证书"><a href="#生成MOK证书" class="headerlink" title="生成MOK证书"></a>生成MOK证书</h1><p>选择一个位置存放你的证书，以后也许会用上<br>创建MOK证书，这里需要用到 <strong><code>openssl</code></strong> ，使用如下指令</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">openssl req -newkey rsa:2048 -nodes -keyout MOK.key -new -x509 -sha256 -days 36500 -subj &quot;/CN=my Machine Owner Key/&quot; -out MOK.crt<br>openssl x509 -outform DER -in MOK.crt -out MOK.der<br></code></pre></td></tr></table></figure><p>将<code>der</code>格式证书转换为<code>pem</code>格式</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">openssl x509 -in MOK.der -inform DER -outform PEM -out MOK.pem<br></code></pre></td></tr></table></figure><p>向机器注册MOK证书，需要安装好工具 <strong><code>mokutil</code></strong> </p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">mokutil -i MOK.der<br></code></pre></td></tr></table></figure><p><code>mokutil</code>会让你设置一个密码，等下会用上，但不重要，只用一次。<br>然后重启（你也可以选择全部设置好再重启），会进入<code>MokManner</code>界面，按照要求注册你的证书。</p><h1 id="签名内核"><a href="#签名内核" class="headerlink" title="签名内核"></a>签名内核</h1><p>需要用到<code>sbsign</code>工具</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs shell">sudo sbsign --key /var/lib/shim-signed/mok/MOK.priv --cert /var/lib/shim-signed/mok/MOK.pem /boot/vmlinuz-[KERNEL-VERSION]-generic --output /boot/vmlinuz-[KERNEL-VERSION]-generic.signed<br>sudo cp /boot/vmlinuz-[KERNEL-VERSION]-generic.signed /boot/vmlinuz-[KERNEL-VERSION]-generic &amp;&amp; sudo rm /boot/vmlinuz-[KERNEL-VERSION]-generic.signed<br></code></pre></td></tr></table></figure><p>更新grub</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs shell">sudo update-grub<br></code></pre></td></tr></table></figure><p>然后重启测试，一切顺利的话新的内核可以正常启动，有些情况会因为NVIDIA显卡驱动不适配无法启动，解决方法这里不过多阐述。</p>]]></content>
     
     
     <categories>
