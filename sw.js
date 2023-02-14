@@ -10,7 +10,7 @@
 
 'use strict';
 
-var precacheConfig = [["/img/logo.png","dfb25f1012adf30e4bbbbec1291308b2"],["/index.html","fa00f0060e1bf2ce53702dd6b45a62a2"],["/manifest.json","deba68433af6718e2fd30084acb691ce"]];
+var precacheConfig = [];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 var firstRegister = 1; // 默认1是首次安装SW， 0是SW更新
 
@@ -286,7 +286,7 @@ self.addEventListener('activate', function (event) {
 
 // Runtime cache 配置转换后的 toolbox 代码.
 
-toolbox.router.get("/**/*", toolbox.cacheFirst, {"origin":"blog.orii.xyz"});
+toolbox.router.get("/**/*", toolbox.cacheFirst, [{"origin":"blog.orii.xyz"},{"origin":"lib.baomitu.com"},{"origin":"at.alicdn.com"}]);
 
 
 
