@@ -88,6 +88,27 @@
   </url>
   
   <url>
+    <loc>https://blog.orii.xyz/tags/Ubuntu/</loc>
+    <lastmod>2023-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/Linux-Kernel/</loc>
+    <lastmod>2023-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/Secure-Boot/</loc>
+    <lastmod>2023-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.orii.xyz/tags/Web/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,6 +124,13 @@
   
   <url>
     <loc>https://blog.orii.xyz/tags/SEO/</loc>
+    <lastmod>2023-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/RSS/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -129,45 +157,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://blog.orii.xyz/tags/RSS/</loc>
-    <lastmod>2023-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/tags/Ubuntu/</loc>
-    <lastmod>2023-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/tags/Linux-Kernel/</loc>
-    <lastmod>2023-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/tags/Secure-Boot/</loc>
-    <lastmod>2023-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/</loc>
-    <lastmod>2023-02-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.orii.xyz/categories/Linux/Grub/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -181,7 +174,7 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
+    <loc>https://blog.orii.xyz/categories/Linux/Grub/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -195,14 +188,14 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
+    <loc>https://blog.orii.xyz/categories/Linux/Kernel/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -216,7 +209,14 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Linux/Kernel/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
+    <lastmod>2023-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
     <lastmod>2023-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
