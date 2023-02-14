@@ -2,6 +2,13 @@
     "name": "orii博客",
     "short_name": "oriiBlog",
     "theme_color": "#3a311c",
+    "prefer_related_applications": true,
+    "related_applications": [
+        {
+        "platform": "play",
+        "id": "xyz.orii.blog"
+        }
+    ],
     "background_color": "#3a311c",
     "display": "standalone",
     "orientation": "any",
