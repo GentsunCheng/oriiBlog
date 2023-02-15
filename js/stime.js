@@ -1,7 +1,7 @@
 var now = new Date();
 
 function createtime() {
-    var grt = new Date("11/03/2022 11:45:14"); //此处修改你的建站时间或者网站上线时间 
+    var grt = new Date("11/03/2022 12:56:59"); //此处修改你的建站时间或者网站上线时间 
     now.setTime(now.getTime() + 250);
     days = (now - grt) / 1000 / 60 / 60 / 24;
     dnum = Math.floor(days);
