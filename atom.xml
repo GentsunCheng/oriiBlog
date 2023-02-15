@@ -6,7 +6,7 @@
   <link href="https://blog.orii.xyz/atom.xml" rel="self"/>
   
   <link href="https://blog.orii.xyz/"/>
-  <updated>2023-01-22T06:05:16.000Z</updated>
+  <updated>2023-02-14T12:40:19.000Z</updated>
   <id>https://blog.orii.xyz/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>站点优化的一些建议</title>
+    <link href="https://blog.orii.xyz/202302/%E7%AB%99%E7%82%B9%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/"/>
+    <id>https://blog.orii.xyz/202302/%E7%AB%99%E7%82%B9%E4%BC%98%E5%8C%96%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BB%BA%E8%AE%AE/</id>
+    <published>2023-02-14T12:40:19.000Z</published>
+    <updated>2023-02-14T12:40:19.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/categories/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/categories/Web/Blog/"/>
+    
+    <category term="Web优化" scheme="https://blog.orii.xyz/categories/Web/Web%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/tags/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/tags/Blog/"/>
+    
+    <category term="Web优化" scheme="https://blog.orii.xyz/tags/Web%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的Hexo博客适配PWA</title>
+    <link href="https://blog.orii.xyz/202302/%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E9%80%82%E9%85%8DPWA/"/>
+    <id>https://blog.orii.xyz/202302/%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E9%80%82%E9%85%8DPWA/</id>
+    <published>2023-02-14T12:37:52.000Z</published>
+    <updated>2023-02-14T12:37:52.000Z</updated>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/categories/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/categories/Web/Blog/"/>
+    
+    
+    <category term="Web" scheme="https://blog.orii.xyz/tags/Web/"/>
+    
+    <category term="Blog" scheme="https://blog.orii.xyz/tags/Blog/"/>
+    
+  </entry>
   
   <entry>
     <title>使用cloudflare Worker代理telegram bot api</title>
