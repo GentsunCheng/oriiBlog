@@ -120,7 +120,7 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/tags/RSS/</loc>
+    <loc>https://blog.orii.xyz/tags/SEO/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -148,13 +148,6 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/tags/SEO/</loc>
-    <lastmod>2023-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.orii.xyz/tags/CDN/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +163,13 @@
   
   <url>
     <loc>https://blog.orii.xyz/tags/Cloudflare/</loc>
+    <lastmod>2023-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/tags/RSS/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -220,7 +220,7 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/Blog/SEO/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -234,14 +234,14 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/Blog/SEO/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
+    <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
     <lastmod>2023-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
