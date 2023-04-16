@@ -175,6 +175,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.orii.xyz/tags/Develop/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -235,6 +242,20 @@
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/categories/Develop/</loc>
+    <lastmod>2023-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.orii.xyz/categories/Develop/Application/</loc>
     <lastmod>2023-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
