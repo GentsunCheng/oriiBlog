@@ -46,37 +46,6 @@
   </entry>
   
   <entry>
-    <title>为你的Hexo博客适配PWA</title>
-    <link href="https://blog.orii.xyz/202302/%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E9%80%82%E9%85%8DPWA/"/>
-    <id>https://blog.orii.xyz/202302/%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E9%80%82%E9%85%8DPWA/</id>
-    <published>2023-02-14T12:37:52.000Z</published>
-    <updated>2023-02-14T12:37:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="前言">前言</h1><p>在阅读这篇博客之前，我们可简单的了解pwa，pwa是什么，pwa有什么优势，会给你的网站带来哪些提升。</p>]]></content>
-    
-    
-      
-      
-        
-        
-    <summary type="html"></summary>
-        
-      
-    
-    
-    
-    <category term="Web" scheme="https://blog.orii.xyz/categories/Web/"/>
-    
-    <category term="Blog" scheme="https://blog.orii.xyz/categories/Web/Blog/"/>
-    
-    
-    <category term="Web" scheme="https://blog.orii.xyz/tags/Web/"/>
-    
-    <category term="Blog" scheme="https://blog.orii.xyz/tags/Blog/"/>
-    
-  </entry>
-  
-  <entry>
     <title>使用cloudflare Worker代理telegram bot api</title>
     <link href="https://blog.orii.xyz/202301/%E4%BD%BF%E7%94%A8cloudflare-Worker%E4%BB%A3%E7%90%86telegram-bot-api/"/>
     <id>https://blog.orii.xyz/202301/%E4%BD%BF%E7%94%A8cloudflare-Worker%E4%BB%A3%E7%90%86telegram-bot-api/</id>

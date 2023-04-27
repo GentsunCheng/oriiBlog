@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://blog.orii.xyz/202302/%E4%B8%BA%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2%E9%80%82%E9%85%8DPWA/</loc>
-    
-    <lastmod>2023-02-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.orii.xyz/202301/%E4%BD%BF%E7%94%A8cloudflare-Worker%E4%BB%A3%E7%90%86telegram-bot-api/</loc>
     
     <lastmod>2023-01-22</lastmod>
@@ -85,7 +76,7 @@
 
   <url>
     <loc>https://blog.orii.xyz/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,91 +84,91 @@
   
   <url>
     <loc>https://blog.orii.xyz/tags/Linux/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Grub/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Web/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Blog/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/SEO/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/RSS/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Ubuntu/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Linux-Kernel/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Secure-Boot/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/CDN/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Telegram/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Cloudflare/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Develop/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -186,77 +177,77 @@
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Grub/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Ubuntu/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Kernel/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/SEO/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Develop/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Develop/Application/</loc>
-    <lastmod>2023-04-16</lastmod>
+    <lastmod>2023-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
