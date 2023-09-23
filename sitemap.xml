@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://blog.orii.xyz/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,91 +84,91 @@
   
   <url>
     <loc>https://blog.orii.xyz/tags/Linux/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Grub/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Web/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Blog/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/SEO/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/RSS/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Ubuntu/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Linux-Kernel/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Secure-Boot/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/CDN/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Telegram/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Cloudflare/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/tags/Develop/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -177,77 +177,77 @@
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Grub/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Ubuntu/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/CDN/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Linux/Kernel/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/SEO/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Web/Blog/RSS/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Develop/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.orii.xyz/categories/Develop/Application/</loc>
-    <lastmod>2023-05-30</lastmod>
+    <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
