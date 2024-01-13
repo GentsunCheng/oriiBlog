@@ -1,4 +1,4 @@
 # oriiBlog  
 ## GentsunCheng的个人博客  
-### 使用hexo搭建，GitHub Page托管静态网页  
-[教程(雾](https://blog.orii.xyz/202211/第一篇博客，hexo-GitHub搭建/)
+由于hexo环境炸了，已经迁移至halo，此项目存档还是原来的地址
+[oriiblog](https://blog.orii.xyz)
